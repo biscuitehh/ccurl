@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0-dev (LLVM a7663bb722, Clang 4ca3c7fa28, Swift 1c2f40e246)"
+options: "677f3bd550fecad86c62f2eaa1d7c986"
+build_time: [509682592, 279227000]
+inputs:
+  "/Users/biscuit/Code/clibcurl/main.swift": [509682590, 0]

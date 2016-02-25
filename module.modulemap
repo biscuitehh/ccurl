@@ -1,0 +1,11 @@
+module CCurlLinux [system] {
+    header "/usr/include/curl/curl.h"
+    link "curl"
+    export *
+}
+
+module CCurlMac [system] {
+    header "/usr/local/opt/curl/include/curl/curl.h"
+    link "curl"
+    export *
+}

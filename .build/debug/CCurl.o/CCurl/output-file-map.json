@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/biscuit/Code/clibcurl/.build/debug/CCurl.o/CCurl/master.swiftdeps"
+  },
+  "/Users/biscuit/Code/clibcurl/main.swift": {
+    "dependencies": "/Users/biscuit/Code/clibcurl/.build/debug/CCurl.o/CCurl/main.d",
+    "object": "/Users/biscuit/Code/clibcurl/.build/debug/CCurl.o/main.swift.o",
+    "swiftmodule": "/Users/biscuit/Code/clibcurl/.build/debug/CCurl.o/CCurl/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/biscuit/Code/clibcurl/.build/debug/CCurl.o/CCurl/main.swiftdeps"
+  }
+}
