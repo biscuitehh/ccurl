@@ -1,5 +1,6 @@
 module CCurlLinux [system] {
     header "/usr/include/curl/curl.h"
+    header "swiftcurl.h"
     link "curl"
     export *
 }
