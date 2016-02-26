@@ -17,3 +17,6 @@ Install `libcurl4-openssl-dev` using `apt-get`
 	import CCurlLinux
 #endif
 ```
+
+###Attributions
+https://akrabat.com/wrapping-variadic-functions-for-use-in-swift/
